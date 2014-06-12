@@ -1,0 +1,4 @@
+Given an array, please get the length of the longest incrementing sequence. 
+The element order in the sequence should be same as the element order in the array. 
+For example, in the array [1, 6, 3, 5, 9, 7], the longest incrementing sequence is 1, 3, 5, 7 and the length is 4. 
+If there is a tie feel free to print any of the sequences.
